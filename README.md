@@ -9,7 +9,7 @@ Python3
 <ol>click 'clone or download'</ol>
 <ol>click 'open in desktop'</ol>
 <ol>click 'open github desktop'</ol>
-<ol>open in the editor of your choice, I prefer visual studio for python, or anything that requires use of the terminal.</ol>
+<ol>open in the editor of your choice.</ol>
 <ol>open 'game.py'</ol>
 <ol>open terminal</ol>
 <ol>make sure terminal can run python3</ol>
